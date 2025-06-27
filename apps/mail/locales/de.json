@@ -187,7 +187,8 @@
       "unsubscribeOpenSiteDescription": "Um nicht mehr Nachrichten von dieser Mailingliste zu erhalten, gehen Sie auf ihre Website zum Abbestellen.",
       "cancel": "Abbrechen",
       "goToWebsite": "Zur Website",
-      "failedToUnsubscribe": "Fehler beim Abbestellen der Mailingliste"
+      "failedToUnsubscribe": "Fehler beim Abbestellen der Mailingliste",
+      "print": "Drucken"
     },
     "threadDisplay": {
       "exitFullscreen": "Vollbildansicht beenden",
@@ -206,7 +207,8 @@
       "disableImages": "Bilder ausblenden",
       "enableImages": "Bilder anzeigen",
       "star": "Mit Stern markieren",
-      "unstar": "Stern entfernen"
+      "unstar": "Stern entfernen",
+      "printThread": "Thread drucken"
     },
     "notes": {
       "title": "Notizen",
@@ -404,7 +406,9 @@
         "zeroSignatureDescription": "Füge deinen E-Mails eine Zero-Signatur hinzu.",
         "defaultEmailAlias": "Standard-E-Mail-Alias",
         "selectDefaultEmail": "Standard-E-Mail auswählen",
-        "defaultEmailDescription": "Diese E-Mail wird als Standard-Absenderadresse beim Verfassen neuer E-Mails verwendet"
+        "defaultEmailDescription": "Diese E-Mail wird als Standard-Absenderadresse beim Verfassen neuer E-Mails verwendet",
+        "autoRead": "Auto-Lesen",
+        "autoReadDescription": "E-Mails automatisch als gelesen markieren, wenn du sie anklickst."
       },
       "connections": {
         "title": "E-Mail Verbindungen",
@@ -573,6 +577,22 @@
           "orderedList": "Nummerierte Liste",
           "viewAttachments": "Anhänge anzeigen",
           "attachFiles": "Dateien anhängen"
+        }
+      },
+      "imageCompression": {
+        "title": "Bildkomprimierung",
+        "description": "Bildqualität für Anhänge auswählen",
+        "low": {
+          "label": "Niedrig",
+          "description": "Kleinste Dateigröße, merklicher Qualitätsverlust"
+        },
+        "medium": {
+          "label": "Mittel",
+          "description": "Ausgewogene Größe und Qualität"
+        },
+        "original": {
+          "label": "Original",
+          "description": "Keine Komprimierung, Originalqualität"
         }
       }
     }
